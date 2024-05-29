@@ -1,2 +1,2 @@
 # tantra
-chatbot specifically for psychiatrists
+bot specifically for psychiatrists
